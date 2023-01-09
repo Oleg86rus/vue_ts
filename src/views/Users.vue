@@ -27,7 +27,6 @@ export default defineComponent({
       error.value = e
       return true
     })
-    console.log({error})
     return {error}
   },
   components: {UserList}
