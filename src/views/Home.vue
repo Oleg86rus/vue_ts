@@ -4,7 +4,7 @@
 
 
 
-    <button class="btn" @click="navigatevfhfnfytw">Открыть пользователей</button>
+    <button class="btn" @click="navigate">Открыть пользователей</button>
   </div>
 </template>
 
